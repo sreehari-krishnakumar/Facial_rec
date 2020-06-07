@@ -6,15 +6,9 @@ This project is of facial recognition using python and opencv. Here we use Haar 
 Reqirements:
 
   All of the requirements can be installed using pip.
-please run the bellow lines in your terminal to install all the requirements.
-  
-    pip install opencv-python
+please run the bellow line in your terminal to install all the requirements:
 
-    pip install opencv-contrib-python
-
-    pip install numpy
-
-    pip install Pillow
+    pip install -r  requirements.txt
   
 
 Running Code:
