@@ -28,7 +28,7 @@ In the facial recognition code,
  
  We can add more users by typing in:
 
-        if(Id== ID_No.):
+        if(Id == ID_No.):
             Id="NAME OF THE PERSON"
    
    where, ID_No. is the respective Id number we gave in the execution of first.py code.
