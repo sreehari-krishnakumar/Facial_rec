@@ -21,7 +21,7 @@ while(1):
         print ("id",Id)
         if(conf<50):
             if(Id==2):
-                Id="Sreehari Krishnakumar"
+                Id="Username"
         elif(conf>50):
             Id="Unknown"
         cv2.putText(facialrec, str(Id), (x,y+h), fontface, fontscale, fontcolor)
