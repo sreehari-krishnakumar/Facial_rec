@@ -16,7 +16,7 @@ Running Code:
 
 first download the repository. 
 
-Then please and a folder called "dataSet" into the repository which you just downloaded.
+Then please add a folder called "dataSet" into the repository which you just downloaded.
    
 Next run the first.py, later we need to train the datasets. So, we run the trainer.py code to train the datasets.
    
