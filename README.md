@@ -1,6 +1,4 @@
 # Facial_rec
-Hello guys,
-
 This project is of facial recognition using python and opencv. Here we use Haar cascade algorithm to detect faces.
   
 Requirements:
@@ -31,7 +29,3 @@ In the facial recognition code,
             Id="NAME OF THE PERSON"
    
    where, ID_No. is the respective Id number that was given in the execution of first.py code.
-   
-   
-   
-Thank you.
