@@ -1,7 +1,7 @@
 # Facial_rec
 This project is of facial recognition using python and opencv. Here we use Haar cascade algorithm to detect faces.
   
-#Requirements
+Requirements:
 
  All of the requirements can be installed using pip.
  After downloading the repository, you can access its directory in your terminal, and execute the following statement in your terminal to install all the requirements: 
