@@ -21,7 +21,7 @@ Finally, the facialrec.py file is to be executed - to run our facial recognition
    
 In the facial recognition code,
   
-  The users name can be changed in line 23, 24 of the program according to the id that was entered in the execution of first.py code.  
+  The users name can be changed in line 19, 20 of the program according to the id that was entered in the execution of first.py code.  
  
  More users can be added by typing in:
 
