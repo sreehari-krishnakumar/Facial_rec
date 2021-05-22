@@ -15,7 +15,7 @@ while(1):
         for(x,y,w,h) in faces:
             cv2.rectangle(facialrec,(x,y),(x+w,y+h),(225,0,0),2)
             Id,conf = recognizer.predict(gray[y:y+h,x:x+w])
-            if(conf<95):
+            if(conf<50):
                 if(Id==ID_No.): 
                     Id="NAME OF THE PERSON"
             else:
